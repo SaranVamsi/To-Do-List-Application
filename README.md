@@ -1,1 +1,5 @@
-Build a simple to-do list app that allows users to add tasks, mark them as complete, and delete tasks via the console. 
+The **To-Do List Application** is a simple command-line tool designed to help users manage their tasks efficiently. Written in Python, it provides an intuitive interface for creating, tracking, and organizing tasks. Each task is assigned a unique ID, making it easy to reference and manage.
+
+This application allows users to add tasks by entering their descriptions. Once added, tasks are displayed with their IDs and completion statuses, enabling users to monitor progress at a glance. Tasks can be marked as complete to signify their accomplishment, and unnecessary tasks can be removed from the list entirely. The program ensures smooth navigation through its menu-driven design, with options for each action clearly presented.
+
+With its minimalistic approach, the To-Do List Application is an ideal tool for anyone looking to stay organized and productive. Whether used for daily chores, project management, or personal goals, this application simplifies task management in a straightforward and user-friendly manner.
