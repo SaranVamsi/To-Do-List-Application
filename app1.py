@@ -70,5 +70,5 @@ def main():
             print("Invalid choice. Please select a valid option.")
 
 
-if _name_ == "_main_":
+if __name__ == "__main__":
     main()
